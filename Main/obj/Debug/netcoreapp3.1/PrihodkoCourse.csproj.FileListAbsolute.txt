@@ -1,0 +1,15 @@
+D:\Projects\University\PrihodkoCourse\PrihodkoCourse\bin\Debug\netcoreapp3.1\PrihodkoCourse.exe
+D:\Projects\University\PrihodkoCourse\PrihodkoCourse\bin\Debug\netcoreapp3.1\PrihodkoCourse.deps.json
+D:\Projects\University\PrihodkoCourse\PrihodkoCourse\bin\Debug\netcoreapp3.1\PrihodkoCourse.runtimeconfig.json
+D:\Projects\University\PrihodkoCourse\PrihodkoCourse\bin\Debug\netcoreapp3.1\PrihodkoCourse.runtimeconfig.dev.json
+D:\Projects\University\PrihodkoCourse\PrihodkoCourse\bin\Debug\netcoreapp3.1\PrihodkoCourse.dll
+D:\Projects\University\PrihodkoCourse\PrihodkoCourse\bin\Debug\netcoreapp3.1\PrihodkoCourse.pdb
+D:\Projects\University\PrihodkoCourse\PrihodkoCourse\obj\Debug\netcoreapp3.1\PrihodkoCourse.csprojAssemblyReference.cache
+D:\Projects\University\PrihodkoCourse\PrihodkoCourse\obj\Debug\netcoreapp3.1\PrihodkoCourse.Form1.resources
+D:\Projects\University\PrihodkoCourse\PrihodkoCourse\obj\Debug\netcoreapp3.1\PrihodkoCourse.csproj.GenerateResource.cache
+D:\Projects\University\PrihodkoCourse\PrihodkoCourse\obj\Debug\netcoreapp3.1\PrihodkoCourse.AssemblyInfoInputs.cache
+D:\Projects\University\PrihodkoCourse\PrihodkoCourse\obj\Debug\netcoreapp3.1\PrihodkoCourse.AssemblyInfo.cs
+D:\Projects\University\PrihodkoCourse\PrihodkoCourse\obj\Debug\netcoreapp3.1\PrihodkoCourse.csproj.CoreCompileInputs.cache
+D:\Projects\University\PrihodkoCourse\PrihodkoCourse\obj\Debug\netcoreapp3.1\PrihodkoCourse.dll
+D:\Projects\University\PrihodkoCourse\PrihodkoCourse\obj\Debug\netcoreapp3.1\PrihodkoCourse.pdb
+D:\Projects\University\PrihodkoCourse\PrihodkoCourse\obj\Debug\netcoreapp3.1\PrihodkoCourse.genruntimeconfig.cache
